@@ -17,6 +17,7 @@ python3 -m pip install --index-url https://test.pypi.org/simple/ --extra-index-u
 ```
 
 - Add this in the dotfile (for bash shell add in ~/.bashrc for zsh shell add in ~/.zshrc).
+  
 ```
 For Bash Shell
 $ nano ~/.bashrc
