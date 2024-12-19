@@ -13,7 +13,7 @@ source ~/gocli/bin/activate
 ```
 - Install gocli package from the testpypi.
 ```commandline
-python3 -m pip install --index-url https://test.pypi.org/simple/ --extra-index-url  https://pypi.org/simple/ gocli==2.4.5.5
+python3 -m pip install gocli
 ```
 
 - Add this in the dotfile (for bash shell add in ~/.bashrc for zsh shell add in ~/.zshrc).
